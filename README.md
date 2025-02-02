@@ -1,7 +1,5 @@
 # ESETACIONAMIENTO
 
- npm run serve PARA 
-   App running at:
-  - Local:   http://localhost:8080/
-    PARA LOS DATOS 
- json-server --watch db.json --port 3000  
+ Levantar el servidor JSON == json-server --watch db.json --port 3000
+
+Iniciar el servidor de desarrollo == npm run serve
