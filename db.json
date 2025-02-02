@@ -25,7 +25,7 @@
       "nombre": "Jerez",
       "area": "contabilidad",
       "vehiculo": {
-        "tipo": "auto",
+        "tipo": "Automóvil",
         "placa": "JZH1D",
         "color": "rosado"
       }
@@ -35,7 +35,7 @@
       "nombre": "Luis Ricardo Gutierrez Soliz",
       "area": "finanzas",
       "vehiculo": {
-        "tipo": "auto",
+        "tipo": "Automóvil",
         "placa": "4943UIS",
         "color": "Blanco nieve"
       }
@@ -45,7 +45,7 @@
       "nombre": "Juanita Velasquez",
       "area": "contabilidad",
       "vehiculo": {
-        "tipo": "moto",
+        "tipo": "Moto",
         "placa": "1234PLAC",
         "color": "ROSADO"
       }
@@ -55,7 +55,7 @@
       "nombre": "richi",
       "area": "contabilidad",
       "vehiculo": {
-        "tipo": "moto",
+        "tipo": "Moto",
         "placa": "SEFEWF4561",
         "color": "blanco"
       }
@@ -65,7 +65,7 @@
       "nombre": "jose",
       "area": "finanzas",
       "vehiculo": {
-        "tipo": "moto",
+        "tipo": "Moto",
         "placa": "ds5f6564",
         "color": "blanco"
       }
@@ -75,7 +75,7 @@
       "nombre": "spidi",
       "area": "finanzas",
       "vehiculo": {
-        "tipo": "auto",
+        "tipo": "Automóvil",
         "placa": "asdw8r7",
         "color": "rosado"
       }
@@ -85,7 +85,7 @@
       "nombre": "rocket",
       "area": "contabilidad",
       "vehiculo": {
-        "tipo": "moto",
+        "tipo": "Moto",
         "placa": "WE48VFD",
         "color": "ROSADO"
       }
@@ -95,7 +95,7 @@
       "nombre": "sanca",
       "area": "finanzas",
       "vehiculo": {
-        "tipo": "moto",
+        "tipo": "Moto",
         "placa": "G69GG6",
         "color": "ROSADO"
       }
