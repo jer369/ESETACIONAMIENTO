@@ -1,0 +1,104 @@
+{
+  "empleados": [
+    {
+      "id": "1",
+      "nombre": "Chichico Pérez",
+      "area": "Producción",
+      "vehiculo": {
+        "tipo": "Automóvil",
+        "placa": "ABC123",
+        "color": "Rojo"
+      }
+    },
+    {
+      "id": "2",
+      "nombre": "Anita García",
+      "area": "Finanzas",
+      "vehiculo": {
+        "tipo": "Moto",
+        "placa": "XYZ987",
+        "color": "Negro"
+      }
+    },
+    {
+      "id": "132c",
+      "nombre": "Jerez",
+      "area": "contabilidad",
+      "vehiculo": {
+        "tipo": "auto",
+        "placa": "JZH1D",
+        "color": "rosado"
+      }
+    },
+    {
+      "id": "a889",
+      "nombre": "Luis Ricardo Gutierrez Soliz",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "auto",
+        "placa": "4943UIS",
+        "color": "Blanco nieve"
+      }
+    },
+    {
+      "id": "8d32",
+      "nombre": "Juanita Velasquez",
+      "area": "contabilidad",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "1234PLAC",
+        "color": "ROSADO"
+      }
+    },
+    {
+      "id": "46ea",
+      "nombre": "richi",
+      "area": "contabilidad",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "SEFEWF4561",
+        "color": "blanco"
+      }
+    },
+    {
+      "id": "5935",
+      "nombre": "jose",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "ds5f6564",
+        "color": "blanco"
+      }
+    },
+    {
+      "id": "e92b",
+      "nombre": "spidi",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "auto",
+        "placa": "asdw8r7",
+        "color": "rosado"
+      }
+    },
+    {
+      "id": "1f52",
+      "nombre": "rocket",
+      "area": "contabilidad",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "WE48VFD",
+        "color": "ROSADO"
+      }
+    },
+    {
+      "id": "6565",
+      "nombre": "sanca",
+      "area": "finanzas",
+      "vehiculo": {
+        "tipo": "moto",
+        "placa": "G69GG6",
+        "color": "ROSADO"
+      }
+    }
+  ]
+}
