@@ -5,8 +5,8 @@
     <div class="filtros">
       <select v-model="filtroVehiculo" @change="filtrarEmpleados">
         <option value="">Todos los vehículos</option>
-        <option value="auto">Automóvil</option>
-        <option value="moto">Moto</option>
+        <option value="Automóvil">Automóvil</option>
+        <option value="Moto">Moto</option>
       </select>
       <input 
         type="text" 
