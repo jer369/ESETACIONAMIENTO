@@ -18,17 +18,17 @@
         <div class="campo">
           <label for="area" class="label">Área:</label>
           <select id="area" v-model="empleado.area" required class="input">
-            <option value="producción">Producción</option>
-            <option value="finanzas">Finanzas</option>
-            <option value="contabilidad">Contabilidad</option>
+            <option value="Producción">Producción</option>
+            <option value="Finanzas">Finanzas</option>
+            <option value="Contabilidad">Contabilidad</option>
           </select>
         </div>
   
         <div class="campo">
           <label for="tipoVehiculo" class="label">Tipo de Vehículo:</label>
           <select id="tipoVehiculo" v-model="vehiculo.tipo" required class="input">
-            <option value="auto">Automóvil</option>
-            <option value="moto">Moto</option>
+            <option value="Automóvil">Automóvil</option>
+            <option value="Moto">Moto</option>
           </select>
         </div>
   
