@@ -30,9 +30,9 @@
       <form @submit.prevent="guardarEdicion">
         <input type="text" v-model="empleadoEnEdicion.nombre" placeholder="Nombre" required />
         <select v-model="empleadoEnEdicion.area">
-          <option value="producción">Producción</option>
-          <option value="finanzas">Finanzas</option>
-          <option value="contabilidad">Contabilidad</option>
+          <option value="Producción">Producción</option>
+          <option value="Finanzas">Finanzas</option>
+          <option value="Contabilidad">Contabilidad</option>
         </select>
         <input type="text" v-model="empleadoEnEdicion.vehiculo.tipo" placeholder="Tipo de Vehículo" required />
         <input type="text" v-model="empleadoEnEdicion.vehiculo.placa" placeholder="Placa" required />
